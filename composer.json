@@ -1,0 +1,17 @@
+{
+  "name": "valerieielsch/quest-composer-cowsay",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Valerie",
+      "email": "valerie.ielsch@gmail.com"
+    }
+  ],
+  "require": {
+    "gipetto/cowsay": "^1.1"
+  }
+}
